@@ -12,6 +12,6 @@ Sample input with network diagram -
                          A ------> C           | 26
       1 4 13                                   | 
       4 5 3              B ------> E-----------|
-      3 5 17		      3
+      3 5 17		       3
       5 6 26
      -1 -1 0
