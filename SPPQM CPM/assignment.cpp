@@ -3,7 +3,7 @@
 #include <stdio.h>
 using namespace std;
 
-//Critical Path Management Program
+//Critical Path Management Program uses Activity-on-Edge Network
 
 int main()
 {
